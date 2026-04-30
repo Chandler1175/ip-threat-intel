@@ -1,4 +1,4 @@
-**# IP-threat-intel# Threat Intelligence CLI Tool
+**# ip-threat-intel# Threat Intelligence CLI Tool
 
 A Python-based command-line tool that aggregates threat intelligence for IPv4 addresses using multiple security APIs.
 
@@ -25,8 +25,8 @@ A Python-based command-line tool that aggregates threat intelligence for IPv4 ad
 Clone the repository:
 
 ```bash
-git clone https://github.com/Chandler1175/IP-threat-intel.git
-cd IP-threat-intel # Threat Intelligence CLI Tool
+git clone https://github.com/Chandler1175/ip-threat-intel.git
+cd ip-threat-intel # Threat Intelligence CLI Tool
 
 
 
